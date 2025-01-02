@@ -1,0 +1,501 @@
+Brand,Category,Grade,Location,Model,Price,SalesDate,Vach_Number,Customer_Age,State
+Mercedes,Van,Deluxe,Dallas,Elantra,76614,7/8/2021,VACH2021070800001,35,Texas
+Audi,Van,Standard,Houston,Sportage,98034,12/15/2018,VACH2018121500002,47,Texas
+Nissan,Truck,Luxury,San Antonio,X5,83193,11/24/2013,VACH2013112400003,21,Texas
+Honda,Sedan,Deluxe,Dallas,F-150,19862,10/18/2012,VACH2012101800004,40,Texas
+Kia,SUV,Standard,Phoenix,X5,96026,6/29/2018,VACH2018062900005,54,Arizona
+Honda,Coupe,Premium,San Jose,A5,70314,12/20/2014,VACH2014122000006,35,California
+Toyota,Van,Premium,Phoenix,F-150,28346,8/28/2022,VACH2022082800007,68,Arizona
+Honda,SUV,Luxury,San Antonio,A5,35924,6/27/2022,VACH2022062700008,59,Texas
+Suzuki,Coupe,Standard,Houston,Swift,54909,3/5/2013,VACH2013030500009,49,Texas
+Honda,Sedan,Luxury,Philadelphia,Corolla,76026,8/9/2016,VACH2016080900010,33,Pennsylvania
+Audi,Coupe,Deluxe,New York,F-150,33327,3/24/2014,VACH2014032400011,67,New York
+Mercedes,Truck,Premium,Houston,Altima,20131,1/27/2019,VACH2019012700012,57,Texas
+Ford,SUV,Standard,San Jose,Swift,46105,10/21/2018,VACH2018102100013,28,California
+Honda,Van,Premium,San Diego,Elantra,73468,7/16/2014,VACH2014071600014,28,California
+Hyundai,Coupe,Deluxe,San Antonio,Model S,44679,1/22/2019,VACH2019012200015,27,Texas
+Nissan,Truck,Deluxe,San Antonio,CR-V,29155,5/2/2023,VACH2023050200016,68,Texas
+Toyota,Van,Deluxe,New York,Civic,59250,7/15/2018,VACH2018071500017,61,New York
+Audi,SUV,Premium,Phoenix,Civic,53694,2/3/2013,VACH2013020300018,57,Arizona
+Tesla,Hatchback,Standard,Dallas,CR-V,99584,10/2/2022,VACH2022100200019,61,Texas
+Toyota,Hatchback,Deluxe,Philadelphia,F-150,32192,8/5/2019,VACH2019080500020,35,Pennsylvania
+Toyota,SUV,Premium,Chicago,Civic,28250,6/16/2017,VACH2017061600021,62,Illinois
+Tesla,Hatchback,Deluxe,Houston,Swift,98655,8/1/2020,VACH2020080100022,33,Texas
+Nissan,Coupe,Luxury,San Antonio,Altima,64134,4/20/2017,VACH2017042000023,44,Texas
+Toyota,Hatchback,Deluxe,Phoenix,Altima,78568,12/23/2012,VACH2012122300024,49,Arizona
+Mercedes,Coupe,Deluxe,Houston,A5,38152,5/10/2024,VACH2024051000025,25,Texas
+Honda,Truck,Premium,Philadelphia,Civic,98435,5/24/2018,VACH2018052400026,19,Pennsylvania
+Hyundai,Hatchback,Deluxe,Phoenix,F-150,85285,8/16/2014,VACH2014081600027,68,Arizona
+Audi,SUV,Premium,New York,Corolla,52715,9/25/2017,VACH2017092500028,28,New York
+Hyundai,Van,Standard,San Diego,Sportage,74439,11/11/2021,VACH2021111100029,68,California
+Suzuki,Sedan,Deluxe,San Antonio,F-150,98952,9/29/2015,VACH2015092900030,62,Texas
+Suzuki,Coupe,Premium,Phoenix,Corolla,28907,8/10/2015,VACH2015081000031,65,Arizona
+Kia,Coupe,Deluxe,Houston,Ranger,44884,1/25/2019,VACH2019012500032,45,Texas
+BMW,Truck,Premium,Houston,Corolla,56700,7/29/2016,VACH2016072900033,37,Texas
+Audi,Sedan,Standard,San Antonio,Model S,56121,1/10/2015,VACH2015011000034,29,Texas
+Tesla,Truck,Deluxe,Dallas,Swift,40331,10/24/2022,VACH2022102400035,31,Texas
+Honda,SUV,Luxury,Phoenix,A5,80311,7/6/2019,VACH2019070600036,32,Arizona
+Honda,Coupe,Deluxe,Phoenix,Altima,47672,7/3/2021,VACH2021070300037,63,Arizona
+BMW,Sedan,Standard,Los Angeles,A5,85930,3/22/2012,VACH2012032200038,18,California
+Kia,Truck,Deluxe,Dallas,CR-V,53008,10/19/2012,VACH2012101900039,36,Texas
+BMW,Coupe,Premium,Phoenix,Model S,86286,7/20/2017,VACH2017072000040,30,Arizona
+Suzuki,Sedan,Luxury,Phoenix,Sportage,93077,6/25/2021,VACH2021062500041,38,Arizona
+Honda,Coupe,Premium,Chicago,X5,48843,7/19/2023,VACH2023071900042,21,Illinois
+Kia,Sedan,Standard,Phoenix,A5,88936,6/27/2023,VACH2023062700043,32,Arizona
+Hyundai,Hatchback,Standard,Philadelphia,Civic,19851,10/22/2021,VACH2021102200044,38,Pennsylvania
+Suzuki,SUV,Deluxe,Houston,CR-V,28765,10/20/2022,VACH2022102000045,36,Texas
+BMW,Coupe,Deluxe,Los Angeles,Model S,39619,7/6/2015,VACH2015070600046,48,California
+Suzuki,Sedan,Luxury,San Diego,Swift,21848,1/13/2016,VACH2016011300047,65,California
+Nissan,Convertible,Premium,Dallas,Ranger,24552,6/25/2021,VACH2021062500048,42,Texas
+Ford,Sedan,Premium,New York,Civic,83944,6/15/2020,VACH2020061500049,49,New York
+Honda,Convertible,Standard,San Jose,X5,92896,4/13/2014,VACH2014041300050,27,California
+Mercedes,Convertible,Deluxe,San Jose,Swift,77188,2/21/2014,VACH2014022100051,28,California
+BMW,Sedan,Standard,Dallas,CR-V,47923,9/9/2023,VACH2023090900052,60,Texas
+Honda,Coupe,Premium,Dallas,Elantra,27304,10/6/2015,VACH2015100600053,57,Texas
+Nissan,Van,Standard,San Antonio,Altima,66818,4/23/2019,VACH2019042300054,37,Texas
+Honda,Hatchback,Standard,Phoenix,X5,39493,4/27/2013,VACH2013042700055,36,Arizona
+Mercedes,Truck,Luxury,Philadelphia,Model S,81661,3/29/2020,VACH2020032900056,36,Pennsylvania
+Kia,Sedan,Premium,Philadelphia,Altima,40414,1/1/2020,VACH2020010100057,45,Pennsylvania
+Nissan,SUV,Standard,Los Angeles,Corolla,90426,3/28/2021,VACH2021032800058,36,California
+Toyota,Coupe,Standard,Houston,A5,40755,5/11/2013,VACH2013051100059,23,Texas
+Audi,Coupe,Deluxe,Phoenix,Civic,15525,9/23/2021,VACH2021092300060,38,Arizona
+Honda,Truck,Premium,Phoenix,Corolla,58423,3/27/2017,VACH2017032700061,49,Arizona
+Ford,Hatchback,Luxury,Dallas,A5,66367,4/7/2019,VACH2019040700062,36,Texas
+Toyota,Van,Deluxe,Los Angeles,Elantra,24654,3/4/2013,VACH2013030400063,49,California
+Hyundai,Hatchback,Deluxe,Philadelphia,Corolla,42323,8/15/2016,VACH2016081500064,30,Pennsylvania
+BMW,Van,Deluxe,San Jose,Civic,24625,10/7/2017,VACH2017100700065,42,California
+Kia,Truck,Luxury,San Diego,Model S,81472,5/3/2016,VACH2016050300066,19,California
+Suzuki,Coupe,Deluxe,Dallas,Ranger,65472,1/22/2018,VACH2018012200067,48,Texas
+BMW,Truck,Luxury,San Jose,Sportage,23547,12/18/2012,VACH2012121800068,22,California
+Audi,Sedan,Premium,Los Angeles,Swift,38386,10/19/2012,VACH2012101900069,64,California
+Suzuki,Truck,Luxury,New York,CR-V,83159,1/25/2021,VACH2021012500070,46,New York
+Kia,Van,Luxury,Los Angeles,Civic,42320,6/20/2018,VACH2018062000071,42,California
+Suzuki,Hatchback,Standard,San Jose,Corolla,15150,9/18/2015,VACH2015091800072,44,California
+Suzuki,Hatchback,Deluxe,Chicago,Civic,97233,7/30/2021,VACH2021073000073,29,Illinois
+Suzuki,Van,Premium,San Antonio,Corolla,68514,3/19/2021,VACH2021031900074,67,Texas
+Nissan,Van,Deluxe,Chicago,Model S,25417,8/8/2018,VACH2018080800075,31,Illinois
+Tesla,Sedan,Luxury,Phoenix,X5,80284,11/30/2023,VACH2023113000076,48,Arizona
+Honda,Hatchback,Standard,Los Angeles,Civic,44066,11/27/2013,VACH2013112700077,52,California
+BMW,Coupe,Standard,Dallas,Model S,85754,5/23/2021,VACH2021052300078,50,Texas
+Audi,Convertible,Standard,Los Angeles,A5,40460,4/15/2014,VACH2014041500079,59,California
+Hyundai,SUV,Premium,Phoenix,Swift,24853,11/3/2014,VACH2014110300080,41,Arizona
+Audi,SUV,Premium,San Antonio,Ranger,49043,8/1/2024,VACH2024080100081,31,Texas
+Hyundai,Coupe,Standard,San Antonio,Swift,78899,2/15/2018,VACH2018021500082,45,Texas
+BMW,Truck,Premium,New York,Sportage,89669,4/3/2016,VACH2016040300083,37,New York
+Hyundai,Sedan,Standard,Chicago,F-150,69986,1/4/2024,VACH2024010400084,22,Illinois
+Tesla,Hatchback,Deluxe,San Diego,F-150,64158,12/29/2017,VACH2017122900085,39,California
+Mercedes,Convertible,Standard,New York,Ranger,25915,7/15/2023,VACH2023071500086,53,New York
+Suzuki,Sedan,Premium,Houston,F-150,99715,11/16/2012,VACH2012111600087,63,Texas
+Suzuki,SUV,Standard,Houston,Sportage,16648,8/9/2017,VACH2017080900088,44,Texas
+Ford,Truck,Luxury,Phoenix,Sportage,33014,8/31/2019,VACH2019083100089,28,Arizona
+Audi,SUV,Premium,Chicago,X5,62270,11/12/2018,VACH2018111200090,43,Illinois
+Suzuki,Hatchback,Luxury,San Jose,Model S,91615,5/11/2024,VACH2024051100091,42,California
+Kia,Convertible,Premium,Chicago,Civic,38567,5/23/2012,VACH2012052300092,40,Illinois
+Toyota,Van,Deluxe,New York,Ranger,55437,8/9/2021,VACH2021080900093,22,New York
+BMW,Sedan,Deluxe,Phoenix,Civic,85501,8/21/2015,VACH2015082100094,69,Arizona
+Toyota,Van,Luxury,Philadelphia,X5,90098,2/15/2015,VACH2015021500095,35,Pennsylvania
+Honda,Coupe,Deluxe,Philadelphia,A5,41880,9/26/2024,VACH2024092600096,25,Pennsylvania
+Honda,Coupe,Premium,San Jose,Altima,18106,7/14/2023,VACH2023071400097,56,California
+Mercedes,Sedan,Standard,San Diego,F-150,70274,6/12/2023,VACH2023061200098,18,California
+Mercedes,Sedan,Deluxe,Los Angeles,F-150,52002,2/16/2015,VACH2015021600099,43,California
+Toyota,Sedan,Luxury,New York,Altima,41947,4/25/2013,VACH2013042500100,30,New York
+Nissan,Sedan,Premium,San Diego,X5,59216,2/25/2017,VACH2017022500101,20,California
+Toyota,Convertible,Standard,Houston,Swift,80650,7/23/2012,VACH2012072300102,49,Texas
+Mercedes,Sedan,Deluxe,San Jose,X5,96694,1/24/2012,VACH2012012400103,36,California
+Tesla,Hatchback,Standard,Philadelphia,Altima,94612,11/15/2024,VACH2024111500104,32,Pennsylvania
+BMW,Van,Premium,Houston,Civic,94383,1/26/2022,VACH2022012600105,34,Texas
+Audi,Sedan,Standard,Phoenix,Elantra,42261,5/14/2022,VACH2022051400106,35,Arizona
+Audi,Van,Standard,Los Angeles,Ranger,66383,6/16/2022,VACH2022061600107,42,California
+Suzuki,Van,Luxury,Houston,Sportage,45828,7/3/2015,VACH2015070300108,31,Texas
+Tesla,Van,Deluxe,Chicago,F-150,53335,10/30/2024,VACH2024103000109,45,Illinois
+Tesla,Hatchback,Standard,San Jose,Ranger,90015,8/14/2013,VACH2013081400110,58,California
+BMW,SUV,Premium,Houston,X5,94137,5/3/2015,VACH2015050300111,24,Texas
+Mercedes,Truck,Premium,Phoenix,Ranger,18835,1/7/2012,VACH2012010700112,49,Arizona
+Audi,Truck,Luxury,San Antonio,Ranger,66764,10/3/2023,VACH2023100300113,63,Texas
+Kia,Convertible,Luxury,Dallas,CR-V,23256,12/4/2017,VACH2017120400114,65,Texas
+Audi,Coupe,Premium,Philadelphia,Ranger,89553,9/15/2022,VACH2022091500115,21,Pennsylvania
+Kia,Sedan,Deluxe,Dallas,Altima,78728,5/23/2020,VACH2020052300116,53,Texas
+BMW,Sedan,Luxury,New York,X5,65616,11/15/2018,VACH2018111500117,63,New York
+Suzuki,Van,Deluxe,Philadelphia,Elantra,56736,10/29/2023,VACH2023102900118,43,Pennsylvania
+Mercedes,SUV,Deluxe,Philadelphia,Sportage,71967,12/12/2015,VACH2015121200119,52,Pennsylvania
+Audi,Hatchback,Deluxe,Philadelphia,Sportage,46168,9/15/2015,VACH2015091500120,21,Pennsylvania
+Ford,Van,Luxury,New York,A5,85430,4/1/2017,VACH2017040100121,29,New York
+Hyundai,Coupe,Deluxe,Houston,A5,76652,12/7/2019,VACH2019120700122,43,Texas
+Ford,Truck,Premium,Philadelphia,Corolla,78916,2/24/2016,VACH2016022400123,23,Pennsylvania
+Toyota,Truck,Luxury,San Antonio,CR-V,80485,6/22/2019,VACH2019062200124,25,Texas
+Nissan,Van,Luxury,Dallas,A5,33031,10/3/2013,VACH2013100300125,70,Texas
+Mercedes,Sedan,Premium,Phoenix,Elantra,96709,3/8/2016,VACH2016030800126,47,Arizona
+Hyundai,Truck,Standard,New York,Sportage,45612,8/13/2013,VACH2013081300127,62,New York
+Toyota,Convertible,Deluxe,San Diego,Ranger,86592,8/28/2013,VACH2013082800128,60,California
+Kia,Truck,Luxury,Houston,Elantra,16424,3/26/2023,VACH2023032600129,57,Texas
+Mercedes,Truck,Premium,San Antonio,Civic,64955,12/14/2017,VACH2017121400130,45,Texas
+Honda,SUV,Deluxe,San Diego,Civic,19841,7/30/2014,VACH2014073000131,34,California
+Suzuki,Convertible,Luxury,Dallas,CR-V,77907,4/17/2023,VACH2023041700132,41,Texas
+Ford,Hatchback,Luxury,San Antonio,Swift,82701,5/5/2013,VACH2013050500133,38,Texas
+Mercedes,Hatchback,Premium,San Diego,Civic,68609,7/17/2023,VACH2023071700134,24,California
+Ford,SUV,Luxury,Philadelphia,Altima,21521,10/17/2012,VACH2012101700135,40,Pennsylvania
+Kia,Convertible,Luxury,San Jose,Elantra,56317,1/7/2012,VACH2012010700136,26,California
+Toyota,Sedan,Deluxe,San Antonio,Corolla,34755,5/23/2013,VACH2013052300137,40,Texas
+Suzuki,Sedan,Standard,Chicago,Altima,84274,10/4/2019,VACH2019100400138,25,Illinois
+Toyota,Hatchback,Premium,San Jose,Sportage,78257,12/5/2024,VACH2024120500139,67,California
+Toyota,Coupe,Luxury,Chicago,Altima,60745,6/17/2019,VACH2019061700140,46,Illinois
+BMW,Convertible,Deluxe,San Diego,Sportage,35691,8/12/2012,VACH2012081200141,25,California
+Nissan,Convertible,Luxury,Phoenix,F-150,70945,12/8/2023,VACH2023120800142,48,Arizona
+Kia,Sedan,Premium,Philadelphia,Model S,98111,9/9/2017,VACH2017090900143,34,Pennsylvania
+Ford,Sedan,Luxury,Phoenix,A5,77669,3/14/2021,VACH2021031400144,54,Arizona
+Nissan,SUV,Standard,New York,Model S,44192,3/3/2024,VACH2024030300145,47,New York
+Suzuki,Sedan,Premium,San Jose,F-150,47299,10/26/2013,VACH2013102600146,41,California
+BMW,Convertible,Deluxe,San Antonio,Civic,55467,6/21/2015,VACH2015062100147,44,Texas
+Toyota,Coupe,Luxury,New York,Sportage,83038,8/28/2024,VACH2024082800148,53,New York
+Ford,Truck,Premium,San Jose,Corolla,99836,8/30/2024,VACH2024083000149,56,California
+Toyota,SUV,Deluxe,Phoenix,Model S,55994,4/28/2024,VACH2024042800150,30,Arizona
+Audi,SUV,Deluxe,Dallas,A5,54847,6/20/2024,VACH2024062000151,68,Texas
+BMW,Coupe,Deluxe,San Diego,F-150,64021,8/11/2021,VACH2021081100152,41,California
+Ford,Sedan,Premium,San Diego,Swift,96052,11/10/2023,VACH2023111000153,64,California
+BMW,Van,Premium,San Diego,Altima,54141,10/19/2019,VACH2019101900154,64,California
+Mercedes,Hatchback,Standard,Phoenix,Ranger,54863,2/15/2022,VACH2022021500155,70,Arizona
+Honda,Truck,Deluxe,San Diego,CR-V,74020,7/10/2012,VACH2012071000156,31,California
+BMW,Sedan,Deluxe,Phoenix,Ranger,62040,4/25/2013,VACH2013042500157,37,Arizona
+Kia,Sedan,Luxury,New York,Model S,90720,11/20/2014,VACH2014112000158,63,New York
+Honda,Convertible,Standard,Dallas,CR-V,26798,11/30/2017,VACH2017113000159,25,Texas
+Suzuki,SUV,Standard,San Antonio,Civic,94893,8/3/2015,VACH2015080300160,67,Texas
+Nissan,SUV,Deluxe,Dallas,Model S,90545,1/1/2023,VACH2023010100161,63,Texas
+BMW,SUV,Standard,San Jose,Altima,91387,2/12/2014,VACH2014021200162,31,California
+Mercedes,Convertible,Premium,San Jose,F-150,29803,10/27/2015,VACH2015102700163,27,California
+Audi,Coupe,Luxury,Houston,Model S,42545,4/5/2018,VACH2018040500164,66,Texas
+Audi,Van,Standard,San Diego,Elantra,96038,8/8/2019,VACH2019080800165,46,California
+Tesla,Coupe,Premium,San Jose,Sportage,64463,5/29/2017,VACH2017052900166,23,California
+Tesla,Truck,Deluxe,Dallas,CR-V,19221,12/17/2013,VACH2013121700167,26,Texas
+Suzuki,Coupe,Luxury,San Diego,Civic,16954,12/10/2014,VACH2014121000168,63,California
+BMW,Convertible,Standard,Houston,CR-V,81139,3/23/2013,VACH2013032300169,23,Texas
+BMW,SUV,Standard,San Diego,Swift,28807,4/1/2024,VACH2024040100170,61,California
+Hyundai,Hatchback,Luxury,Houston,Elantra,84868,8/9/2013,VACH2013080900171,29,Texas
+Hyundai,SUV,Premium,Los Angeles,Elantra,88696,2/14/2016,VACH2016021400172,57,California
+Honda,Convertible,Premium,Chicago,X5,36699,4/25/2020,VACH2020042500173,24,Illinois
+BMW,Sedan,Premium,Philadelphia,Corolla,69335,5/29/2014,VACH2014052900174,35,Pennsylvania
+Audi,Hatchback,Luxury,Houston,CR-V,92846,1/15/2024,VACH2024011500175,51,Texas
+Toyota,SUV,Standard,Phoenix,Model S,34390,11/28/2020,VACH2020112800176,23,Arizona
+Toyota,Van,Deluxe,Chicago,Ranger,66572,12/29/2021,VACH2021122900177,39,Illinois
+Toyota,Van,Deluxe,Phoenix,Elantra,30617,6/16/2013,VACH2013061600178,21,Arizona
+Audi,Convertible,Luxury,Los Angeles,Elantra,61037,12/30/2015,VACH2015123000179,68,California
+Hyundai,Coupe,Deluxe,Chicago,Altima,21427,1/9/2023,VACH2023010900180,42,Illinois
+Ford,Convertible,Standard,San Diego,Corolla,63069,6/16/2014,VACH2014061600181,40,California
+Nissan,Hatchback,Premium,San Antonio,X5,80791,7/28/2018,VACH2018072800182,31,Texas
+Honda,SUV,Luxury,San Antonio,A5,59533,11/14/2016,VACH2016111400183,42,Texas
+Honda,Van,Premium,San Diego,Sportage,62644,1/29/2020,VACH2020012900184,26,California
+Toyota,Coupe,Standard,Chicago,CR-V,71117,12/26/2012,VACH2012122600185,19,Illinois
+Toyota,Truck,Standard,San Antonio,Altima,72805,7/15/2017,VACH2017071500186,64,Texas
+Tesla,Truck,Deluxe,Philadelphia,F-150,30373,5/25/2018,VACH2018052500187,20,Pennsylvania
+Toyota,Sedan,Luxury,Houston,Corolla,78619,9/7/2023,VACH2023090700188,53,Texas
+Hyundai,SUV,Deluxe,Dallas,Civic,51641,12/22/2021,VACH2021122200189,23,Texas
+Hyundai,Sedan,Luxury,San Diego,Corolla,39658,2/28/2014,VACH2014022800190,18,California
+Audi,Truck,Standard,Houston,Corolla,15008,7/5/2019,VACH2019070500191,67,Texas
+Kia,Truck,Luxury,Los Angeles,CR-V,22622,7/27/2020,VACH2020072700192,20,California
+Tesla,Hatchback,Premium,Chicago,Ranger,63514,11/19/2017,VACH2017111900193,46,Illinois
+Ford,Sedan,Standard,Dallas,A5,23988,6/3/2019,VACH2019060300194,19,Texas
+Suzuki,Convertible,Standard,Phoenix,Model S,29820,2/6/2021,VACH2021020600195,38,Arizona
+Mercedes,Coupe,Luxury,Houston,Altima,92724,7/3/2022,VACH2022070300196,21,Texas
+Honda,SUV,Deluxe,San Jose,X5,15604,8/21/2014,VACH2014082100197,21,California
+Honda,SUV,Deluxe,San Antonio,Swift,45010,4/26/2023,VACH2023042600198,64,Texas
+Hyundai,Convertible,Luxury,San Antonio,X5,96596,9/13/2020,VACH2020091300199,68,Texas
+Nissan,Truck,Standard,Chicago,Model S,40157,11/9/2017,VACH2017110900200,22,Illinois
+Audi,Van,Premium,San Diego,Sportage,80308,5/16/2014,VACH2014051600201,37,California
+Hyundai,Coupe,Deluxe,Philadelphia,Altima,71112,12/7/2020,VACH2020120700202,69,Pennsylvania
+Honda,Truck,Premium,San Antonio,A5,58378,7/2/2014,VACH2014070200203,60,Texas
+Toyota,Van,Deluxe,Dallas,A5,79578,1/17/2022,VACH2022011700204,49,Texas
+Mercedes,Convertible,Deluxe,New York,Ranger,75049,9/19/2012,VACH2012091900205,27,New York
+Audi,Van,Deluxe,San Antonio,Ranger,87842,7/8/2020,VACH2020070800206,22,Texas
+Mercedes,Coupe,Luxury,New York,F-150,48398,8/9/2015,VACH2015080900207,33,New York
+Suzuki,Sedan,Standard,Dallas,Corolla,96724,9/6/2015,VACH2015090600208,67,Texas
+Nissan,Truck,Luxury,San Diego,Corolla,63392,10/26/2020,VACH2020102600209,58,California
+Mercedes,Truck,Deluxe,San Antonio,CR-V,65762,10/30/2022,VACH2022103000210,29,Texas
+Suzuki,Truck,Luxury,San Antonio,Ranger,88561,12/26/2014,VACH2014122600211,54,Texas
+Hyundai,Coupe,Luxury,Philadelphia,Civic,26254,7/1/2013,VACH2013070100212,50,Pennsylvania
+Honda,Van,Standard,Dallas,F-150,64049,6/5/2021,VACH2021060500213,53,Texas
+BMW,Convertible,Premium,San Diego,F-150,23560,3/20/2018,VACH2018032000214,56,California
+Honda,Convertible,Luxury,San Jose,Swift,37872,10/7/2015,VACH2015100700215,30,California
+Kia,Truck,Deluxe,Dallas,Corolla,30057,1/21/2016,VACH2016012100216,34,Texas
+Tesla,Hatchback,Premium,Los Angeles,Elantra,48240,6/3/2024,VACH2024060300217,68,California
+Kia,SUV,Standard,Dallas,Civic,51018,6/26/2024,VACH2024062600218,69,Texas
+BMW,Sedan,Luxury,San Diego,F-150,66266,5/29/2018,VACH2018052900219,33,California
+Mercedes,Sedan,Luxury,San Diego,Civic,24136,10/24/2012,VACH2012102400220,25,California
+Honda,Coupe,Deluxe,New York,CR-V,57409,4/17/2015,VACH2015041700221,29,New York
+Audi,Sedan,Premium,San Jose,Swift,35778,6/30/2012,VACH2012063000222,40,California
+Mercedes,Truck,Premium,Houston,Ranger,24970,2/19/2016,VACH2016021900223,62,Texas
+Audi,Hatchback,Premium,Philadelphia,Model S,37258,11/12/2016,VACH2016111200224,55,Pennsylvania
+Ford,Coupe,Luxury,Los Angeles,A5,36244,10/5/2019,VACH2019100500225,24,California
+Kia,Convertible,Deluxe,Dallas,CR-V,50179,5/31/2019,VACH2019053100226,35,Texas
+Kia,Van,Luxury,San Jose,X5,18697,3/22/2018,VACH2018032200227,58,California
+Toyota,Convertible,Premium,Houston,Model S,26982,6/4/2017,VACH2017060400228,20,Texas
+Tesla,Convertible,Luxury,San Diego,Swift,69764,7/8/2024,VACH2024070800229,22,California
+Suzuki,Van,Premium,Dallas,CR-V,86776,3/3/2016,VACH2016030300230,70,Texas
+Nissan,SUV,Luxury,Los Angeles,F-150,95564,9/28/2012,VACH2012092800231,34,California
+Hyundai,Van,Luxury,Houston,Ranger,91040,6/14/2012,VACH2012061400232,30,Texas
+Hyundai,Convertible,Deluxe,Houston,Model S,62561,5/1/2015,VACH2015050100233,28,Texas
+Audi,Hatchback,Deluxe,Los Angeles,F-150,30289,2/7/2018,VACH2018020700234,36,California
+Audi,SUV,Deluxe,Chicago,Civic,34603,6/12/2021,VACH2021061200235,52,Illinois
+Nissan,Convertible,Luxury,Phoenix,Corolla,65565,10/19/2024,VACH2024101900236,20,Arizona
+Nissan,Truck,Deluxe,Houston,Corolla,90958,7/9/2012,VACH2012070900237,63,Texas
+Honda,Van,Standard,Chicago,Corolla,90793,3/27/2020,VACH2020032700238,25,Illinois
+Nissan,Coupe,Standard,San Diego,Corolla,52248,8/25/2016,VACH2016082500239,61,California
+Audi,Van,Standard,Chicago,Altima,78363,8/28/2023,VACH2023082800240,65,Illinois
+Hyundai,Coupe,Luxury,San Diego,Elantra,45133,10/24/2019,VACH2019102400241,62,California
+Ford,Sedan,Premium,Los Angeles,Model S,85566,12/29/2022,VACH2022122900242,18,California
+Honda,Van,Deluxe,New York,Ranger,69313,10/18/2012,VACH2012101800243,38,New York
+Honda,Truck,Deluxe,San Jose,Swift,46086,9/12/2014,VACH2014091200244,41,California
+BMW,Convertible,Premium,Chicago,X5,24252,10/26/2018,VACH2018102600245,54,Illinois
+Ford,Van,Premium,Chicago,Civic,65972,8/4/2019,VACH2019080400246,19,Illinois
+Nissan,Hatchback,Standard,Phoenix,Swift,49177,2/27/2023,VACH2023022700247,60,Arizona
+Kia,Van,Premium,Chicago,Swift,55522,7/17/2017,VACH2017071700248,59,Illinois
+Suzuki,Convertible,Premium,Los Angeles,F-150,68238,3/24/2016,VACH2016032400249,30,California
+Hyundai,Sedan,Standard,Los Angeles,A5,76998,11/19/2015,VACH2015111900250,40,California
+Honda,SUV,Standard,Phoenix,CR-V,31300,10/16/2020,VACH2020101600251,49,Arizona
+Ford,Truck,Premium,Phoenix,Swift,24733,3/14/2015,VACH2015031400252,26,Arizona
+Honda,Convertible,Standard,Dallas,Altima,85387,2/5/2019,VACH2019020500253,67,Texas
+Nissan,SUV,Standard,San Jose,Model S,77595,1/12/2019,VACH2019011200254,61,California
+Honda,Truck,Premium,Chicago,A5,91706,12/6/2014,VACH2014120600255,42,Illinois
+Toyota,Van,Luxury,New York,Civic,30053,4/7/2021,VACH2021040700256,30,New York
+Suzuki,Coupe,Premium,San Antonio,Ranger,76528,5/9/2020,VACH2020050900257,50,Texas
+BMW,Convertible,Standard,Chicago,Civic,23720,11/24/2019,VACH2019112400258,59,Illinois
+BMW,SUV,Premium,Philadelphia,Elantra,49503,10/13/2024,VACH2024101300259,60,Pennsylvania
+Hyundai,SUV,Luxury,San Diego,Sportage,97695,10/12/2019,VACH2019101200260,52,California
+Audi,Coupe,Deluxe,San Diego,Model S,57984,3/1/2022,VACH2022030100261,52,California
+Kia,SUV,Standard,New York,A5,26184,4/25/2016,VACH2016042500262,70,New York
+Kia,Van,Premium,Dallas,Civic,15057,11/24/2014,VACH2014112400263,23,Texas
+Suzuki,SUV,Deluxe,San Diego,Swift,25765,4/28/2015,VACH2015042800264,66,California
+Hyundai,Convertible,Deluxe,San Diego,Civic,39390,11/27/2015,VACH2015112700265,55,California
+Audi,Truck,Deluxe,Chicago,Sportage,52323,6/3/2018,VACH2018060300266,25,Illinois
+Tesla,Sedan,Standard,Dallas,X5,30868,9/10/2017,VACH2017091000267,44,Texas
+Ford,Hatchback,Premium,New York,F-150,30581,2/14/2017,VACH2017021400268,70,New York
+Suzuki,Truck,Premium,Los Angeles,Corolla,62892,1/4/2022,VACH2022010400269,25,California
+Tesla,Convertible,Standard,Phoenix,F-150,33899,5/25/2020,VACH2020052500270,24,Arizona
+Ford,Truck,Luxury,Houston,Sportage,51772,6/19/2018,VACH2018061900271,51,Texas
+BMW,Convertible,Luxury,Chicago,Ranger,90610,8/7/2019,VACH2019080700272,26,Illinois
+BMW,Truck,Premium,Houston,A5,64433,2/13/2023,VACH2023021300273,63,Texas
+BMW,Convertible,Deluxe,San Jose,A5,92876,1/8/2014,VACH2014010800274,35,California
+Audi,Sedan,Luxury,Los Angeles,Model S,64385,7/13/2014,VACH2014071300275,64,California
+Audi,SUV,Premium,Chicago,X5,21415,7/5/2012,VACH2012070500276,44,Illinois
+Hyundai,Coupe,Deluxe,Phoenix,Corolla,81751,8/2/2022,VACH2022080200277,25,Arizona
+Tesla,Coupe,Luxury,San Antonio,X5,15528,5/7/2016,VACH2016050700278,34,Texas
+BMW,SUV,Luxury,San Jose,Altima,25215,4/20/2023,VACH2023042000279,22,California
+Honda,Coupe,Deluxe,Houston,Altima,66894,9/7/2022,VACH2022090700280,25,Texas
+Ford,Sedan,Deluxe,New York,Model S,86561,6/20/2024,VACH2024062000281,65,New York
+Toyota,SUV,Deluxe,Dallas,Sportage,24716,9/16/2022,VACH2022091600282,43,Texas
+BMW,Coupe,Deluxe,Chicago,CR-V,67646,7/25/2020,VACH2020072500283,48,Illinois
+Mercedes,Sedan,Standard,Dallas,Sportage,36806,8/3/2019,VACH2019080300284,18,Texas
+BMW,Hatchback,Deluxe,Los Angeles,Ranger,42028,8/15/2023,VACH2023081500285,62,California
+Honda,Hatchback,Deluxe,New York,Elantra,82438,4/12/2015,VACH2015041200286,54,New York
+Nissan,Coupe,Premium,San Jose,F-150,82135,7/4/2013,VACH2013070400287,39,California
+Kia,Sedan,Luxury,San Jose,Swift,94134,3/1/2015,VACH2015030100288,70,California
+Suzuki,Van,Luxury,Chicago,A5,52400,6/12/2024,VACH2024061200289,37,Illinois
+Nissan,Hatchback,Luxury,Dallas,CR-V,62511,10/11/2016,VACH2016101100290,43,Texas
+Hyundai,SUV,Standard,San Jose,Ranger,94209,10/10/2024,VACH2024101000291,56,California
+Ford,Coupe,Luxury,San Diego,Corolla,57150,1/29/2012,VACH2012012900292,18,California
+Toyota,Convertible,Standard,Dallas,F-150,80840,2/21/2013,VACH2013022100293,54,Texas
+Kia,Convertible,Premium,San Jose,A5,51744,4/4/2022,VACH2022040400294,27,California
+BMW,Hatchback,Standard,San Jose,Model S,43072,8/28/2016,VACH2016082800295,68,California
+Suzuki,Hatchback,Luxury,San Jose,A5,87431,7/29/2014,VACH2014072900296,54,California
+Nissan,Hatchback,Premium,Dallas,F-150,93058,8/31/2022,VACH2022083100297,67,Texas
+Honda,SUV,Standard,Chicago,CR-V,99613,7/18/2022,VACH2022071800298,21,Illinois
+Suzuki,Truck,Deluxe,San Diego,Sportage,68987,12/18/2016,VACH2016121800299,25,California
+Suzuki,Hatchback,Standard,Philadelphia,Corolla,96425,10/27/2020,VACH2020102700300,65,Pennsylvania
+Tesla,Convertible,Luxury,San Antonio,Corolla,55745,5/22/2024,VACH2024052200301,54,Texas
+Nissan,SUV,Standard,Houston,Ranger,77213,3/11/2023,VACH2023031100302,22,Texas
+Suzuki,Truck,Premium,Philadelphia,Swift,17754,9/22/2024,VACH2024092200303,42,Pennsylvania
+Suzuki,SUV,Luxury,San Antonio,Ranger,78354,12/19/2019,VACH2019121900304,26,Texas
+BMW,Coupe,Luxury,Houston,Civic,92826,6/6/2019,VACH2019060600305,56,Texas
+Honda,Sedan,Deluxe,San Jose,Ranger,31695,7/3/2014,VACH2014070300306,58,California
+Honda,Convertible,Deluxe,Philadelphia,Altima,94833,12/10/2015,VACH2015121000307,46,Pennsylvania
+Tesla,Sedan,Standard,Dallas,Sportage,58334,1/17/2014,VACH2014011700308,20,Texas
+BMW,Truck,Luxury,Phoenix,Swift,31998,5/20/2020,VACH2020052000309,29,Arizona
+Suzuki,Sedan,Luxury,San Diego,CR-V,80793,5/31/2021,VACH2021053100310,41,California
+BMW,Hatchback,Premium,New York,Corolla,96711,8/22/2016,VACH2016082200311,28,New York
+Toyota,Sedan,Standard,San Jose,Elantra,91630,12/1/2014,VACH2014120100312,61,California
+Suzuki,Hatchback,Premium,Los Angeles,Swift,38036,4/30/2022,VACH2022043000313,63,California
+Hyundai,Truck,Standard,San Jose,X5,62108,6/8/2017,VACH2017060800314,55,California
+Honda,Truck,Premium,New York,Ranger,69453,10/13/2019,VACH2019101300315,26,New York
+Ford,Truck,Deluxe,Phoenix,Model S,71785,8/16/2021,VACH2021081600316,58,Arizona
+Honda,Hatchback,Deluxe,Dallas,CR-V,34810,7/10/2021,VACH2021071000317,37,Texas
+Audi,Sedan,Premium,Philadelphia,Civic,38920,4/29/2018,VACH2018042900318,52,Pennsylvania
+BMW,Truck,Premium,San Diego,Ranger,60825,12/18/2014,VACH2014121800319,65,California
+Honda,Hatchback,Premium,Los Angeles,Altima,94024,10/18/2015,VACH2015101800320,59,California
+Tesla,Coupe,Deluxe,Chicago,A5,21091,9/3/2019,VACH2019090300321,50,Illinois
+Suzuki,SUV,Standard,San Jose,CR-V,94611,12/22/2014,VACH2014122200322,28,California
+Ford,SUV,Luxury,Houston,Sportage,31858,10/31/2013,VACH2013103100323,54,Texas
+Nissan,Convertible,Premium,Dallas,CR-V,81453,9/1/2013,VACH2013090100324,53,Texas
+Hyundai,Van,Standard,San Jose,Corolla,21000,2/25/2023,VACH2023022500325,28,California
+Nissan,Van,Premium,Phoenix,F-150,61403,4/19/2019,VACH2019041900326,19,Arizona
+Hyundai,Sedan,Standard,Phoenix,Model S,35991,10/31/2015,VACH2015103100327,22,Arizona
+Tesla,Sedan,Standard,New York,Altima,79803,3/11/2022,VACH2022031100328,39,New York
+Tesla,Sedan,Premium,Houston,Model S,59976,6/27/2024,VACH2024062700329,62,Texas
+Audi,Convertible,Premium,Chicago,F-150,61146,5/22/2018,VACH2018052200330,61,Illinois
+Tesla,Truck,Luxury,San Antonio,A5,26410,10/18/2023,VACH2023101800331,61,Texas
+Nissan,SUV,Standard,Dallas,Elantra,81332,5/31/2013,VACH2013053100332,43,Texas
+Hyundai,Coupe,Standard,San Diego,A5,35077,5/19/2015,VACH2015051900333,47,California
+Toyota,Sedan,Standard,Chicago,Swift,39092,12/28/2012,VACH2012122800334,68,Illinois
+Toyota,Hatchback,Standard,Philadelphia,Civic,24895,11/7/2016,VACH2016110700335,61,Pennsylvania
+Tesla,Van,Luxury,San Diego,X5,93891,5/8/2024,VACH2024050800336,18,California
+Honda,Hatchback,Standard,Philadelphia,Altima,76708,4/23/2018,VACH2018042300337,36,Pennsylvania
+Kia,Truck,Standard,Phoenix,Altima,24910,2/27/2014,VACH2014022700338,29,Arizona
+Toyota,Coupe,Luxury,Los Angeles,Altima,42858,11/28/2023,VACH2023112800339,48,California
+Audi,Convertible,Premium,San Antonio,Corolla,28733,10/16/2017,VACH2017101600340,61,Texas
+Nissan,Sedan,Deluxe,San Antonio,CR-V,95478,9/30/2013,VACH2013093000341,46,Texas
+Toyota,Convertible,Premium,San Diego,CR-V,32305,4/3/2016,VACH2016040300342,63,California
+Honda,Convertible,Luxury,New York,Ranger,31743,12/19/2021,VACH2021121900343,23,New York
+Toyota,Coupe,Standard,San Jose,F-150,19289,9/14/2022,VACH2022091400344,44,California
+Kia,Truck,Standard,San Diego,Sportage,51363,7/31/2012,VACH2012073100345,64,California
+Suzuki,Sedan,Premium,San Diego,Corolla,66384,7/21/2016,VACH2016072100346,59,California
+Kia,SUV,Premium,New York,Corolla,67791,3/25/2020,VACH2020032500347,69,New York
+Hyundai,Coupe,Luxury,Dallas,A5,60323,7/12/2014,VACH2014071200348,54,Texas
+Nissan,Convertible,Premium,San Antonio,A5,36136,9/23/2012,VACH2012092300349,27,Texas
+Tesla,Convertible,Luxury,San Diego,Model S,40107,12/19/2023,VACH2023121900350,22,California
+Audi,Convertible,Standard,San Diego,CR-V,86809,10/27/2012,VACH2012102700351,60,California
+Hyundai,Truck,Standard,San Antonio,Model S,19801,8/6/2020,VACH2020080600352,56,Texas
+Honda,Truck,Standard,San Diego,A5,79009,2/26/2013,VACH2013022600353,21,California
+Nissan,SUV,Luxury,San Diego,CR-V,93838,11/18/2019,VACH2019111800354,46,California
+Suzuki,Coupe,Luxury,Houston,Altima,19806,7/6/2024,VACH2024070600355,25,Texas
+Nissan,Convertible,Premium,Chicago,X5,29667,5/30/2016,VACH2016053000356,67,Illinois
+Audi,Hatchback,Luxury,San Antonio,Ranger,62162,10/4/2021,VACH2021100400357,30,Texas
+Honda,Van,Deluxe,New York,A5,60251,12/5/2014,VACH2014120500358,27,New York
+Ford,Van,Premium,San Antonio,A5,76173,7/24/2018,VACH2018072400359,62,Texas
+Audi,Van,Standard,San Diego,Sportage,96293,3/20/2016,VACH2016032000360,65,California
+Ford,Van,Premium,Dallas,Sportage,65576,7/16/2015,VACH2015071600361,41,Texas
+Tesla,Sedan,Luxury,San Antonio,Sportage,89085,11/24/2023,VACH2023112400362,45,Texas
+Hyundai,SUV,Luxury,San Diego,Sportage,68519,7/4/2014,VACH2014070400363,55,California
+Ford,Convertible,Standard,Phoenix,Sportage,69069,2/15/2018,VACH2018021500364,61,Arizona
+Toyota,Sedan,Premium,Phoenix,Corolla,38104,1/22/2014,VACH2014012200365,40,Arizona
+Mercedes,Sedan,Premium,San Jose,Swift,47207,10/7/2017,VACH2017100700366,35,California
+Ford,Convertible,Deluxe,San Jose,Swift,40580,5/12/2019,VACH2019051200367,63,California
+Mercedes,Hatchback,Deluxe,Chicago,Ranger,81804,5/18/2022,VACH2022051800368,60,Illinois
+Toyota,Coupe,Deluxe,Chicago,Altima,65477,9/15/2023,VACH2023091500369,32,Illinois
+Nissan,Truck,Standard,Chicago,Sportage,24597,5/7/2020,VACH2020050700370,43,Illinois
+BMW,Sedan,Standard,Chicago,Civic,47326,1/21/2023,VACH2023012100371,29,Illinois
+Tesla,Convertible,Deluxe,Houston,CR-V,69923,3/11/2018,VACH2018031100372,39,Texas
+Tesla,Convertible,Standard,New York,Sportage,32892,10/7/2020,VACH2020100700373,39,New York
+Kia,SUV,Luxury,Houston,Sportage,92357,8/9/2014,VACH2014080900374,58,Texas
+Nissan,Van,Deluxe,New York,Model S,80157,8/10/2023,VACH2023081000375,22,New York
+Suzuki,SUV,Luxury,Houston,Civic,22073,3/7/2012,VACH2012030700376,31,Texas
+Ford,Coupe,Deluxe,Dallas,X5,38120,7/16/2016,VACH2016071600377,36,Texas
+Audi,SUV,Premium,San Antonio,Altima,17640,7/16/2015,VACH2015071600378,19,Texas
+Ford,Sedan,Luxury,Phoenix,F-150,63354,5/28/2014,VACH2014052800379,59,Arizona
+Honda,SUV,Luxury,Houston,Ranger,80609,3/12/2019,VACH2019031200380,21,Texas
+Honda,Hatchback,Luxury,San Antonio,Altima,96785,4/23/2017,VACH2017042300381,33,Texas
+Honda,Convertible,Deluxe,Dallas,Corolla,62415,9/3/2014,VACH2014090300382,36,Texas
+Nissan,Sedan,Deluxe,San Jose,Corolla,77127,4/24/2019,VACH2019042400383,54,California
+BMW,Van,Premium,San Antonio,Corolla,81412,11/28/2024,VACH2024112800384,63,Texas
+BMW,SUV,Luxury,San Jose,Sportage,57607,5/15/2015,VACH2015051500385,55,California
+BMW,SUV,Luxury,Philadelphia,A5,65659,6/28/2016,VACH2016062800386,57,Pennsylvania
+Honda,Truck,Premium,San Diego,X5,30842,11/12/2016,VACH2016111200387,54,California
+Ford,Convertible,Deluxe,Philadelphia,Corolla,56391,1/11/2020,VACH2020011100388,45,Pennsylvania
+Audi,Truck,Premium,Chicago,Elantra,71441,5/20/2018,VACH2018052000389,45,Illinois
+Tesla,Truck,Premium,Philadelphia,A5,64943,5/5/2021,VACH2021050500390,63,Pennsylvania
+Kia,Coupe,Standard,San Diego,Sportage,49911,7/1/2022,VACH2022070100391,29,California
+Suzuki,Convertible,Premium,Los Angeles,CR-V,31612,12/9/2015,VACH2015120900392,64,California
+Ford,Van,Standard,New York,A5,72061,7/27/2022,VACH2022072700393,65,New York
+Kia,Truck,Luxury,Los Angeles,Corolla,43945,1/16/2012,VACH2012011600394,23,California
+Ford,SUV,Luxury,Philadelphia,Swift,82950,2/5/2018,VACH2018020500395,69,Pennsylvania
+Audi,Hatchback,Luxury,Philadelphia,Swift,98152,12/12/2017,VACH2017121200396,36,Pennsylvania
+Toyota,SUV,Luxury,New York,A5,75152,3/27/2013,VACH2013032700397,51,New York
+Kia,Convertible,Deluxe,Phoenix,F-150,93978,12/19/2024,VACH2024121900398,34,Arizona
+Tesla,Sedan,Premium,Dallas,Ranger,96582,11/10/2014,VACH2014111000399,45,Texas
+Kia,Truck,Premium,New York,Civic,77684,10/6/2021,VACH2021100600400,18,New York
+Kia,Truck,Premium,Houston,Ranger,83002,5/30/2017,VACH2017053000401,39,Texas
+Mercedes,Truck,Luxury,New York,Swift,34206,8/24/2022,VACH2022082400402,40,New York
+Tesla,Van,Luxury,Los Angeles,Swift,46883,11/6/2021,VACH2021110600403,37,California
+Suzuki,Coupe,Standard,Dallas,X5,20508,2/23/2018,VACH2018022300404,28,Texas
+Ford,SUV,Standard,Philadelphia,X5,88924,8/7/2018,VACH2018080700405,50,Pennsylvania
+Honda,SUV,Standard,Dallas,Model S,65725,10/28/2024,VACH2024102800406,59,Texas
+Kia,Hatchback,Premium,Phoenix,Civic,94273,3/10/2019,VACH2019031000407,24,Arizona
+Hyundai,Van,Deluxe,San Jose,Elantra,17509,12/3/2022,VACH2022120300408,67,California
+Hyundai,Truck,Premium,Chicago,Corolla,47841,7/30/2021,VACH2021073000409,19,Illinois
+Ford,SUV,Premium,Los Angeles,Sportage,43067,9/25/2013,VACH2013092500410,70,California
+Ford,Sedan,Premium,Phoenix,Ranger,30886,6/30/2016,VACH2016063000411,45,Arizona
+Tesla,Hatchback,Standard,San Diego,F-150,85920,12/26/2017,VACH2017122600412,46,California
+BMW,Truck,Luxury,San Antonio,Swift,59471,8/25/2019,VACH2019082500413,55,Texas
+Suzuki,Hatchback,Standard,Houston,Model S,65953,1/21/2014,VACH2014012100414,43,Texas
+Audi,Van,Premium,Los Angeles,Model S,58043,5/29/2021,VACH2021052900415,22,California
+Honda,Convertible,Luxury,San Antonio,Corolla,21329,4/10/2021,VACH2021041000416,36,Texas
+Tesla,Van,Standard,Dallas,Sportage,40554,2/16/2012,VACH2012021600417,35,Texas
+BMW,Truck,Standard,San Diego,Model S,53428,6/7/2013,VACH2013060700418,19,California
+Nissan,Coupe,Deluxe,San Antonio,Model S,34554,4/12/2024,VACH2024041200419,67,Texas
+Mercedes,Coupe,Premium,Houston,Swift,67314,5/5/2012,VACH2012050500420,51,Texas
+Honda,Hatchback,Deluxe,San Diego,Model S,99961,7/24/2023,VACH2023072400421,67,California
+Toyota,Convertible,Standard,San Diego,Elantra,28049,9/6/2023,VACH2023090600422,49,California
+Ford,Van,Standard,San Jose,Model S,35475,3/5/2024,VACH2024030500423,68,California
+Suzuki,Convertible,Deluxe,Houston,F-150,30840,2/16/2014,VACH2014021600424,19,Texas
+Ford,Van,Deluxe,San Antonio,Sportage,63589,1/11/2019,VACH2019011100425,51,Texas
+Kia,Convertible,Deluxe,San Antonio,Civic,69650,11/30/2014,VACH2014113000426,32,Texas
+Mercedes,SUV,Standard,Philadelphia,Altima,84493,1/8/2022,VACH2022010800427,43,Pennsylvania
+BMW,Van,Deluxe,Dallas,Corolla,57233,7/20/2021,VACH2021072000428,52,Texas
+Toyota,Sedan,Premium,Philadelphia,CR-V,67428,6/12/2014,VACH2014061200429,49,Pennsylvania
+Hyundai,Sedan,Premium,Los Angeles,Elantra,84838,10/19/2022,VACH2022101900430,26,California
+Audi,SUV,Deluxe,Houston,Corolla,76042,12/25/2023,VACH2023122500431,65,Texas
+Suzuki,Truck,Premium,Phoenix,Swift,78564,6/29/2016,VACH2016062900432,66,Arizona
+Suzuki,Truck,Premium,San Antonio,Model S,39036,5/22/2021,VACH2021052200433,46,Texas
+BMW,SUV,Standard,Houston,Elantra,88601,11/29/2023,VACH2023112900434,36,Texas
+Nissan,Sedan,Luxury,San Antonio,Sportage,89987,1/17/2014,VACH2014011700435,50,Texas
+Honda,Hatchback,Premium,San Diego,Swift,65389,11/14/2012,VACH2012111400436,45,California
+Honda,Van,Deluxe,San Jose,Swift,85458,4/8/2015,VACH2015040800437,31,California
+Suzuki,Sedan,Deluxe,New York,Civic,80648,2/12/2018,VACH2018021200438,30,New York
+Nissan,Sedan,Deluxe,Los Angeles,Corolla,99684,11/26/2023,VACH2023112600439,45,California
+Nissan,Hatchback,Luxury,Dallas,Corolla,39176,7/29/2018,VACH2018072900440,69,Texas
+Toyota,Van,Deluxe,New York,Altima,42030,1/9/2014,VACH2014010900441,66,New York
+Toyota,Truck,Deluxe,Dallas,Altima,15139,12/2/2018,VACH2018120200442,37,Texas
+Audi,Hatchback,Standard,Phoenix,CR-V,67331,10/11/2013,VACH2013101100443,35,Arizona
+Audi,Sedan,Premium,San Antonio,Ranger,35328,2/29/2012,VACH2012022900444,61,Texas
+Suzuki,Convertible,Standard,Los Angeles,CR-V,81109,9/3/2018,VACH2018090300445,29,California
+BMW,SUV,Luxury,New York,Altima,37368,11/21/2024,VACH2024112100446,65,New York
+Nissan,Van,Standard,New York,Altima,36232,7/14/2020,VACH2020071400447,48,New York
+Tesla,Van,Luxury,San Antonio,Elantra,81256,6/2/2020,VACH2020060200448,51,Texas
+Hyundai,Sedan,Premium,San Jose,F-150,30929,5/8/2017,VACH2017050800449,62,California
+Toyota,Sedan,Standard,San Diego,A5,76237,7/1/2012,VACH2012070100450,34,California
+Suzuki,Coupe,Deluxe,Los Angeles,Civic,17424,9/7/2018,VACH2018090700451,52,California
+Ford,SUV,Premium,San Diego,F-150,68226,6/26/2022,VACH2022062600452,47,California
+Kia,Convertible,Standard,Los Angeles,Corolla,51053,12/16/2023,VACH2023121600453,57,California
+Suzuki,Van,Premium,San Antonio,Ranger,21525,11/22/2018,VACH2018112200454,30,Texas
+Ford,Sedan,Standard,San Antonio,Civic,86489,1/14/2014,VACH2014011400455,19,Texas
+BMW,Coupe,Standard,San Antonio,Sportage,31515,7/17/2020,VACH2020071700456,49,Texas
+Ford,Van,Luxury,Phoenix,Elantra,60001,11/28/2024,VACH2024112800457,22,Arizona
+Kia,Coupe,Deluxe,San Diego,CR-V,45053,12/9/2017,VACH2017120900458,54,California
+Tesla,Coupe,Premium,Los Angeles,Ranger,63288,11/28/2018,VACH2018112800459,19,California
+Audi,Van,Deluxe,Houston,Elantra,43637,5/19/2022,VACH2022051900460,21,Texas
+Honda,Hatchback,Luxury,Houston,Corolla,26031,9/11/2020,VACH2020091100461,48,Texas
+Hyundai,Sedan,Standard,San Diego,Sportage,45815,9/27/2024,VACH2024092700462,20,California
+Mercedes,Hatchback,Luxury,Houston,CR-V,62409,3/24/2024,VACH2024032400463,43,Texas
+Toyota,Van,Deluxe,San Diego,A5,20997,12/23/2019,VACH2019122300464,45,California
+Audi,Coupe,Luxury,Dallas,Model S,95257,6/18/2021,VACH2021061800465,40,Texas
+Ford,Van,Premium,Dallas,Elantra,23652,5/14/2019,VACH2019051400466,51,Texas
+Audi,Coupe,Standard,San Diego,Altima,19862,10/22/2024,VACH2024102200467,30,California
+Honda,Sedan,Deluxe,Phoenix,Elantra,62234,3/17/2012,VACH2012031700468,58,Arizona
+Ford,Convertible,Premium,Phoenix,Altima,99623,2/8/2017,VACH2017020800469,19,Arizona
+Mercedes,Convertible,Luxury,Houston,Model S,80184,7/12/2019,VACH2019071200470,48,Texas
+Suzuki,SUV,Luxury,Phoenix,Ranger,68780,8/14/2023,VACH2023081400471,25,Arizona
+Ford,Convertible,Luxury,Chicago,Sportage,26167,10/19/2013,VACH2013101900472,18,Illinois
+Kia,Truck,Deluxe,Phoenix,CR-V,33102,4/16/2018,VACH2018041600473,64,Arizona
+BMW,Convertible,Deluxe,Dallas,X5,29120,11/26/2012,VACH2012112600474,62,Texas
+Ford,Hatchback,Deluxe,Dallas,A5,41115,1/1/2015,VACH2015010100475,44,Texas
+Nissan,Convertible,Standard,Dallas,F-150,23555,10/28/2023,VACH2023102800476,52,Texas
+Toyota,Coupe,Luxury,Phoenix,Ranger,30721,5/13/2021,VACH2021051300477,61,Arizona
+Nissan,Coupe,Standard,Los Angeles,Model S,34148,8/3/2022,VACH2022080300478,50,California
+Ford,Convertible,Deluxe,San Antonio,F-150,28824,7/31/2021,VACH2021073100479,61,Texas
+Hyundai,Van,Premium,Dallas,Model S,22467,10/20/2018,VACH2018102000480,65,Texas
+Toyota,Truck,Deluxe,New York,CR-V,74099,7/29/2020,VACH2020072900481,58,New York
+Hyundai,Coupe,Luxury,Dallas,CR-V,52928,11/23/2017,VACH2017112300482,70,Texas
+Hyundai,Coupe,Luxury,Los Angeles,A5,31542,11/2/2015,VACH2015110200483,33,California
+Tesla,Van,Luxury,Houston,Model S,68413,4/18/2014,VACH2014041800484,23,Texas
+Kia,Sedan,Premium,San Diego,Altima,56401,12/13/2024,VACH2024121300485,30,California
+Toyota,Coupe,Standard,Houston,Corolla,54680,8/15/2017,VACH2017081500486,64,Texas
+Suzuki,Truck,Premium,San Diego,Altima,29411,5/30/2024,VACH2024053000487,38,California
+Suzuki,Sedan,Premium,Los Angeles,CR-V,96687,11/27/2020,VACH2020112700488,33,California
+Toyota,SUV,Luxury,Phoenix,Elantra,30282,6/25/2017,VACH2017062500489,57,Arizona
+Mercedes,Van,Premium,San Antonio,Model S,99180,12/1/2017,VACH2017120100490,31,Texas
+Honda,SUV,Standard,Dallas,Civic,63990,3/31/2015,VACH2015033100491,61,Texas
+BMW,Convertible,Luxury,Dallas,Altima,34508,8/15/2012,VACH2012081500492,31,Texas
+Toyota,Hatchback,Standard,San Diego,Corolla,89558,7/17/2022,VACH2022071700493,30,California
+Audi,Hatchback,Standard,San Jose,Civic,86879,3/25/2013,VACH2013032500494,46,California
+Nissan,Hatchback,Premium,Philadelphia,Civic,73651,12/8/2016,VACH2016120800495,67,Pennsylvania
+Suzuki,Sedan,Standard,New York,Elantra,93510,2/16/2012,VACH2012021600496,23,New York
+Nissan,Hatchback,Deluxe,Houston,Elantra,51096,8/11/2014,VACH2014081100497,44,Texas
+Audi,SUV,Luxury,San Jose,Swift,18219,2/26/2016,VACH2016022600498,38,California
+Ford,Convertible,Standard,New York,Elantra,40530,3/9/2016,VACH2016030900499,52,New York
+Hyundai,Van,Premium,New York,Elantra,99959,12/2/2012,VACH2012120200500,46,New York
